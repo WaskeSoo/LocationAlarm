@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Budzik Lokalizacyjny</string>
+    <string name="ytLogo">ytLogo</string>
+    <string name="gitLogo">gitLogo</string>
+    <string name="budzik_lokalizacyjny">Budzik Lokalizacyjny</string>
+    <string name="wybierz_miejsce_pobudki">Wybierz miejsce pobudki</string>
+    <string name="wczytaj_zapisane_miejsce_pobudki">Wczytaj zapisane miejsce pobudki</string>
+    <string name="ustawienia">Ustawienia</string>
+</resources>
